@@ -1,0 +1,56 @@
+[
+{
+  "directory": "/home/meteoriw/CPP4_3DViewer_v2.0-1/build",
+  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_OPENGLWIDGETS_LIB -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -I/home/meteoriw/CPP4_3DViewer_v2.0-1/build/3dViewer_autogen/include -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui -isystem /usr/include/x86_64-linux-gnu/qt6/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt6/QtOpenGL -isystem /usr/include/x86_64-linux-gnu/qt6/QtOpenGLWidgets -g -std=gnu++17 -Wall -Wextra -Werror -fPIC -o CMakeFiles/3dViewer.dir/3dViewer_autogen/mocs_compilation.cpp.o -c /home/meteoriw/CPP4_3DViewer_v2.0-1/build/3dViewer_autogen/mocs_compilation.cpp",
+  "file": "/home/meteoriw/CPP4_3DViewer_v2.0-1/build/3dViewer_autogen/mocs_compilation.cpp",
+  "output": "CMakeFiles/3dViewer.dir/3dViewer_autogen/mocs_compilation.cpp.o"
+},
+{
+  "directory": "/home/meteoriw/CPP4_3DViewer_v2.0-1/build",
+  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_OPENGLWIDGETS_LIB -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -I/home/meteoriw/CPP4_3DViewer_v2.0-1/build/3dViewer_autogen/include -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui -isystem /usr/include/x86_64-linux-gnu/qt6/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt6/QtOpenGL -isystem /usr/include/x86_64-linux-gnu/qt6/QtOpenGLWidgets -g -std=gnu++17 -Wall -Wextra -Werror -fPIC -o CMakeFiles/3dViewer.dir/main.cpp.o -c /home/meteoriw/CPP4_3DViewer_v2.0-1/src/main.cpp",
+  "file": "/home/meteoriw/CPP4_3DViewer_v2.0-1/src/main.cpp",
+  "output": "CMakeFiles/3dViewer.dir/main.cpp.o"
+},
+{
+  "directory": "/home/meteoriw/CPP4_3DViewer_v2.0-1/build",
+  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_OPENGLWIDGETS_LIB -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -I/home/meteoriw/CPP4_3DViewer_v2.0-1/build/3dViewer_autogen/include -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui -isystem /usr/include/x86_64-linux-gnu/qt6/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt6/QtOpenGL -isystem /usr/include/x86_64-linux-gnu/qt6/QtOpenGLWidgets -g -std=gnu++17 -Wall -Wextra -Werror -fPIC -o CMakeFiles/3dViewer.dir/viewer_model/viewer_model.cpp.o -c /home/meteoriw/CPP4_3DViewer_v2.0-1/src/viewer_model/viewer_model.cpp",
+  "file": "/home/meteoriw/CPP4_3DViewer_v2.0-1/src/viewer_model/viewer_model.cpp",
+  "output": "CMakeFiles/3dViewer.dir/viewer_model/viewer_model.cpp.o"
+},
+{
+  "directory": "/home/meteoriw/CPP4_3DViewer_v2.0-1/build",
+  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_OPENGLWIDGETS_LIB -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -I/home/meteoriw/CPP4_3DViewer_v2.0-1/build/3dViewer_autogen/include -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui -isystem /usr/include/x86_64-linux-gnu/qt6/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt6/QtOpenGL -isystem /usr/include/x86_64-linux-gnu/qt6/QtOpenGLWidgets -g -std=gnu++17 -Wall -Wextra -Werror -fPIC -o CMakeFiles/3dViewer.dir/viewer_controller/viewer_controller.cpp.o -c /home/meteoriw/CPP4_3DViewer_v2.0-1/src/viewer_controller/viewer_controller.cpp",
+  "file": "/home/meteoriw/CPP4_3DViewer_v2.0-1/src/viewer_controller/viewer_controller.cpp",
+  "output": "CMakeFiles/3dViewer.dir/viewer_controller/viewer_controller.cpp.o"
+},
+{
+  "directory": "/home/meteoriw/CPP4_3DViewer_v2.0-1/build",
+  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_OPENGLWIDGETS_LIB -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -I/home/meteoriw/CPP4_3DViewer_v2.0-1/build/3dViewer_autogen/include -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui -isystem /usr/include/x86_64-linux-gnu/qt6/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt6/QtOpenGL -isystem /usr/include/x86_64-linux-gnu/qt6/QtOpenGLWidgets -g -std=gnu++17 -Wall -Wextra -Werror -fPIC -o CMakeFiles/3dViewer.dir/viewer_view/viewer_view.cpp.o -c /home/meteoriw/CPP4_3DViewer_v2.0-1/src/viewer_view/viewer_view.cpp",
+  "file": "/home/meteoriw/CPP4_3DViewer_v2.0-1/src/viewer_view/viewer_view.cpp",
+  "output": "CMakeFiles/3dViewer.dir/viewer_view/viewer_view.cpp.o"
+},
+{
+  "directory": "/home/meteoriw/CPP4_3DViewer_v2.0-1/build",
+  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_OPENGLWIDGETS_LIB -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -I/home/meteoriw/CPP4_3DViewer_v2.0-1/build/3dViewer_autogen/include -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui -isystem /usr/include/x86_64-linux-gnu/qt6/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt6/QtOpenGL -isystem /usr/include/x86_64-linux-gnu/qt6/QtOpenGLWidgets -g -std=gnu++17 -Wall -Wextra -Werror -fPIC -o CMakeFiles/3dViewer.dir/viewer_facade/viewer_facade.cpp.o -c /home/meteoriw/CPP4_3DViewer_v2.0-1/src/viewer_facade/viewer_facade.cpp",
+  "file": "/home/meteoriw/CPP4_3DViewer_v2.0-1/src/viewer_facade/viewer_facade.cpp",
+  "output": "CMakeFiles/3dViewer.dir/viewer_facade/viewer_facade.cpp.o"
+},
+{
+  "directory": "/home/meteoriw/CPP4_3DViewer_v2.0-1/build",
+  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_OPENGLWIDGETS_LIB -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -I/home/meteoriw/CPP4_3DViewer_v2.0-1/build/3dViewer_tests_autogen/include -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui -isystem /usr/include/x86_64-linux-gnu/qt6/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt6/QtOpenGL -isystem /usr/include/x86_64-linux-gnu/qt6/QtOpenGLWidgets -g -std=gnu++17 -Wall -Wextra -Werror --coverage -fPIC -o CMakeFiles/3dViewer_tests.dir/3dViewer_tests_autogen/mocs_compilation.cpp.o -c /home/meteoriw/CPP4_3DViewer_v2.0-1/build/3dViewer_tests_autogen/mocs_compilation.cpp",
+  "file": "/home/meteoriw/CPP4_3DViewer_v2.0-1/build/3dViewer_tests_autogen/mocs_compilation.cpp",
+  "output": "CMakeFiles/3dViewer_tests.dir/3dViewer_tests_autogen/mocs_compilation.cpp.o"
+},
+{
+  "directory": "/home/meteoriw/CPP4_3DViewer_v2.0-1/build",
+  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_OPENGLWIDGETS_LIB -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -I/home/meteoriw/CPP4_3DViewer_v2.0-1/build/3dViewer_tests_autogen/include -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui -isystem /usr/include/x86_64-linux-gnu/qt6/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt6/QtOpenGL -isystem /usr/include/x86_64-linux-gnu/qt6/QtOpenGLWidgets -g -std=gnu++17 -Wall -Wextra -Werror --coverage -fPIC -o CMakeFiles/3dViewer_tests.dir/unit-tests/tests.cpp.o -c /home/meteoriw/CPP4_3DViewer_v2.0-1/src/unit-tests/tests.cpp",
+  "file": "/home/meteoriw/CPP4_3DViewer_v2.0-1/src/unit-tests/tests.cpp",
+  "output": "CMakeFiles/3dViewer_tests.dir/unit-tests/tests.cpp.o"
+},
+{
+  "directory": "/home/meteoriw/CPP4_3DViewer_v2.0-1/build",
+  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_OPENGLWIDGETS_LIB -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -I/home/meteoriw/CPP4_3DViewer_v2.0-1/build/3dViewer_tests_autogen/include -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui -isystem /usr/include/x86_64-linux-gnu/qt6/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt6/QtOpenGL -isystem /usr/include/x86_64-linux-gnu/qt6/QtOpenGLWidgets -g -std=gnu++17 -Wall -Wextra -Werror --coverage -fPIC -o CMakeFiles/3dViewer_tests.dir/viewer_model/viewer_model.cpp.o -c /home/meteoriw/CPP4_3DViewer_v2.0-1/src/viewer_model/viewer_model.cpp",
+  "file": "/home/meteoriw/CPP4_3DViewer_v2.0-1/src/viewer_model/viewer_model.cpp",
+  "output": "CMakeFiles/3dViewer_tests.dir/viewer_model/viewer_model.cpp.o"
+}
+]

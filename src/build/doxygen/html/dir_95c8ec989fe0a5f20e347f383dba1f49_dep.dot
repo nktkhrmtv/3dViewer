@@ -1,0 +1,11 @@
+digraph "/home/meteoriw/CPP4_3DViewer_v2.0-1/src/viewer_facade"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  compound=true
+  dir_95c8ec989fe0a5f20e347f383dba1f49 [label="viewer_facade", fillcolor="#edf0f7", color="grey25", style="filled,bold", URL="dir_95c8ec989fe0a5f20e347f383dba1f49.html",tooltip=""];
+  dir_ce2b9012ea9e12de77460a910124c301 [label="viewer_view", fillcolor="#edf0f7", color="grey25", style="filled", URL="dir_ce2b9012ea9e12de77460a910124c301.html",tooltip=""];
+  dir_95c8ec989fe0a5f20e347f383dba1f49->dir_ce2b9012ea9e12de77460a910124c301 [headlabel="1", labeldistance=1.5 headhref="dir_000001_000003.html" href="dir_000001_000003.html" color="steelblue1" fontcolor="steelblue1"];
+}

@@ -1,0 +1,187 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-b5d86bd3773cfe794953.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "3dViewer",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "3dViewer::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-3dViewer-Debug-39ae368d67870c0a2ad2.json",
+					"name" : "3dViewer",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "3dViewer_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-3dViewer_autogen-Debug-6938265b1cffd272fe10.json",
+					"name" : "3dViewer_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "3dViewer_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-3dViewer_autogen_timestamp_deps-Debug-035aa9e1fa7391b4f97d.json",
+					"name" : "3dViewer_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "3dViewer_tests::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-3dViewer_tests-Debug-d900e9528bf19afd40d5.json",
+					"name" : "3dViewer_tests",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "3dViewer_tests_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-3dViewer_tests_autogen-Debug-675090b2346215e1c073.json",
+					"name" : "3dViewer_tests_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "3dViewer_tests_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-3dViewer_tests_autogen_timestamp_deps-Debug-6675d98f03ee8bc5c4cd.json",
+					"name" : "3dViewer_tests_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "3dViewer_tests_target::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-3dViewer_tests_target-Debug-2ff33a22817bdee7437c.json",
+					"name" : "3dViewer_tests_target",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "clangi::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-clangi-Debug-112d4332fd0a92daf93d.json",
+					"name" : "clangi",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "clangn::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-clangn-Debug-0f579d7060948e01f6f3.json",
+					"name" : "clangn",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "clean_all::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-clean_all-Debug-a69e134b37dcfd8a0ab0.json",
+					"name" : "clean_all",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "coverage::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-coverage-Debug-47edc8bc4ae89292325d.json",
+					"name" : "coverage",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "dist::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-dist-Debug-b6b25a8b7451c9009d58.json",
+					"name" : "dist",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "dvi::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-dvi-Debug-e36ab0c8ec33c54b264a.json",
+					"name" : "dvi",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "tests::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tests-Debug-e09e62681a8c49540bd3.json",
+					"name" : "tests",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-Debug-9f63eb7170feb0ca7a21.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/meteoriw/CPP4_3DViewer_v2.0-1/build",
+		"source" : "/home/meteoriw/CPP4_3DViewer_v2.0-1/src"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
